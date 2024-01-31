@@ -88,10 +88,10 @@ body {
     .h7 {
         text-align: center;
         color: #F6ECEC;
-        font-size: 70px;
+        font-size: 80px;
         position: absolute;
         top: 03%;
-        left: 32%;
+        left: 24%;
         right: 50%;
         transform: translate(-50%, -50%);
     }
@@ -104,7 +104,7 @@ body {
         transform:translate(-50%, -50%)
     }
     .container2{
-        width: 85;
+        width: 25;
         position: absolute;
         top: 70%;
         bottom: 50%;
@@ -124,7 +124,8 @@ body {
     }
 
     .input-field {
-        width: 365px;
+        top: 80;
+        width: 285px;
         font-size: 18px;
     }
 
@@ -134,13 +135,13 @@ body {
     }
 
     #ImgC {
-        width: 70px;
-        height: 80px;
+        width: 55px;
+        height: 65px;
         position: absolute;
-        top: 90%;
+        top: 10%;
         bottom: 50%;
         left: 24%;
         right: 190%;
-        transform:translate(490%, 220%)
+        transform:translate(490%, 230%)
     }
 }
