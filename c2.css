@@ -77,13 +77,15 @@ body {
 }
 
 @media screen and (max-width: 1000px) {
+    
+@media screen and (max-width: 1000px) {
     .h71 {
         text-align: center;
         color: #F6ECEC;
-        font-size: 70px;
+        font-size: 80px;
         position: absolute;
         top: 03%;
-        left: 32%;
+        left: 24%;
         right: 50%;
         transform: translate(-50%, -50%);
     }
@@ -96,7 +98,7 @@ body {
         transform:translate(-50%, -50%)
     }
     .container21{
-        width: 85;
+        width: 25;
         position: absolute;
         top: 70%;
         bottom: 50%;
@@ -116,12 +118,14 @@ body {
     }
 
     .input-field1 {
-        width: 365px;
+        top: 80;
+        width: 300px;
         font-size: 18px;
     }
 
     .convert-button1 {
         font-size: 20px;
         width: 60%;
+    }
     }
 }
