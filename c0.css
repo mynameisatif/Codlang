@@ -63,14 +63,14 @@ body {
 }
 
 /* Media query for minimum width of 500px */
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 750px) {
     .h7 {
         text-align: center;
         color: #F6ECEC;
-        font-size: 70px;
+        font-size: 80px;
         position: absolute;
         top: 03%;
-        left: 32%;
+        left: 24%;
         right: 50%;
         transform: translate(-50%, -50%);
     }
@@ -78,13 +78,13 @@ body {
     .convert-button {
         background-color: #6c6cc9;
         color: #FFFFFF;
-        font-size: 30px;
+        font-size: 29px;
         width: 80%;
         height: 90px;
         font-weight: normal;
         cursor: pointer;
         position: absolute;
-        top: 117%;
+        top: 147%;
         bottom: 50%;
         left: 50%;
         right: 50%;
@@ -100,7 +100,7 @@ body {
         font-weight: normal;
         cursor: pointer;
         position: absolute;
-        top: 134%;
+        top: 167%;
         bottom: 50%;
         left: 50%;
         right: 50%;
