@@ -19,7 +19,7 @@ body {
     transform:translate(-50%, -50%)
 
 }
-.container1 {
+.container1{
     text-align: center;
     color: #F6ECEC;
     position: absolute;
@@ -30,7 +30,7 @@ body {
     transform:translate(-50%, -50%)
 
 }
-.container2 {
+.container2{
     color: #F6ECEC;
     position: absolute;
     top: 60%;
@@ -61,7 +61,7 @@ body {
 
 .convert-button {
     background-color: #6c6cc9;
-    color: #000000;
+    color: #FFFFFF;
     width: 150%;
     font-size: 30px;
     width: 50%;
@@ -75,7 +75,6 @@ body {
     right: 50%;
     transform:translate(-50%, -15%)
 }
-
 #ImgC {
     width: 50px;
     height: 63px;
@@ -85,7 +84,7 @@ body {
     transform:translate(-50%, -50%);
 }
 @media screen and (max-width: 1000px) {
-    .h7 {
+   .h71 {
         text-align: center;
         color: #F6ECEC;
         font-size: 80px;
@@ -95,7 +94,7 @@ body {
         right: 50%;
         transform: translate(-50%, -50%);
     }
-    .container1{
+    .container11{
         position: absolute;
         top: 50%;
         bottom: 50%;
@@ -103,7 +102,7 @@ body {
         right: 50%;
         transform:translate(-50%, -50%)
     }
-    .container2{
+    .container21{
         width: 25;
         position: absolute;
         top: 70%;
@@ -112,7 +111,7 @@ body {
         right: 50%;
         transform:translate(-50%, -50%)
     }
-    .container3 {
+    .container31 {
         font-size: 140px;
         width: 300px;
         position: absolute;
@@ -123,17 +122,16 @@ body {
         transform:translate(-50%, -50%)
     }
 
-    .input-field {
+    .input-field1 {
         top: 80;
         width: 285px;
         font-size: 18px;
     }
 
-    .convert-button {
+    .convert-button1 {
         font-size: 20px;
         width: 60%;
     }
-
     #ImgC {
         width: 55px;
         height: 65px;
